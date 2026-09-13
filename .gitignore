@@ -1,0 +1,31 @@
+# Unity generated
+AmirTemurSquare/[Ll]ibrary/
+AmirTemurSquare/[Tt]emp/
+AmirTemurSquare/[Oo]bj/
+AmirTemurSquare/[Ll]ogs/
+AmirTemurSquare/[Uu]serSettings/
+AmirTemurSquare/*.csproj
+AmirTemurSquare/*.sln
+AmirTemurSquare/.vs/
+# Windows player build (distributed as a zip / GitHub release, not in git)
+Build/
+# Downloaded CC0 source assets (re-created by data/download_assets.py + data/process_assets.py; .meta files are kept so GUIDs survive)
+data/raw/
+data/logs/
+data/*.log
+data/logs_*.txt
+data/_tmp/
+AmirTemurSquare/Assets/AmirTemur/Art/Textures/**/*.jpg
+AmirTemurSquare/Assets/AmirTemur/Art/Textures/**/*.png
+AmirTemurSquare/Assets/AmirTemur/Art/Models/**/*.fbx
+AmirTemurSquare/Assets/AmirTemur/Art/Models/**/*.png
+AmirTemurSquare/Assets/AmirTemur/Art/Models/**/*.jpg
+AmirTemurSquare/Assets/AmirTemur/Art/Models/**/*.exr
+AmirTemurSquare/Assets/AmirTemur/Art/HDRI/*.hdr
+AmirTemurSquare/Assets/AmirTemur/Art/Character/**/*.fbx
+AmirTemurSquare/Assets/AmirTemur/Art/Character/**/*.tif
+AmirTemurSquare/Assets/AmirTemur/Art/Character/**/*.png
+AmirTemurSquare/Assets/AmirTemur/Art/Character/**/*.tga
+# reflection probe bakes / large generated textures
+*.exr
+!AmirTemurSquare/Assets/AmirTemur/Art/HDRI/*.hdr.meta
