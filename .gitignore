@@ -29,3 +29,6 @@ AmirTemurSquare/Assets/AmirTemur/Art/Character/**/*.tga
 # reflection probe bakes / large generated textures
 *.exr
 !AmirTemurSquare/Assets/AmirTemur/Art/HDRI/*.hdr.meta
+
+# build archives
+*.zip
