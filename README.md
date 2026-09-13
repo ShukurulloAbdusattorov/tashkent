@@ -8,7 +8,7 @@ screen-space GI, SSR, volumetric fog, HDRI sky, contact shadows, TAA).
 ![monument](screenshots/monument_close.png)
 
 ## Play
-Download the Windows build (see Releases) and run `AmirTemurSquare.exe`. Requirements: Windows 10/11 x64,
+Run `AmirTemurSquare.exe`. Requirements: Windows 10/11 x64,
 a DX12/DX11 GPU with 4 GB+ VRAM (GTX 1060 / RX 580 class or better), 8 GB RAM.
 
 | Input | Action |
@@ -41,5 +41,5 @@ a DX12/DX11 GPU with 4 GB+ VRAM (GTX 1060 / RX 580 class or better), 8 GB RAM.
 - `docs/ARCHITECTURE.md` — conventions.
 
 ## Licences
-Code: MIT. Map data © OpenStreetMap contributors (ODbL). Textures/models/HDRIs: CC0 (ambientCG, Poly Haven).
+Private project — all rights reserved, not licensed for reuse. Map data © OpenStreetMap contributors (ODbL). Textures/models/HDRIs: CC0 (ambientCG, Poly Haven).
 Character and animations: Unity Standard Assets Characters (Unity Companion License).
